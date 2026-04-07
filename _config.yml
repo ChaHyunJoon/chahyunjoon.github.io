@@ -7,26 +7,25 @@ first_name: Hyun Joon
 last_name: Cha
 contact_note: >
   Seoul National University, Department of Mechanical Engineering.
-  I am interested in AI for Science, digital twins, and intelligent engineering systems.
+  Interested in AI for Science, reinforcement learning, digital twins, and physics-aware intelligence.
+
 
 description: >
-  Master student at Seoul National University working on AI for Science,
-  digital twins for chemical systems, and generative models in engineering.
+  Hyun Joon Cha is a master's student at Seoul National University working on
+  AI for Science, reinforcement learning, digital twins, and intelligent systems
+  that bridge machine learning with physical systems.
 
 keywords: AI for Science, Digital Twin for Chemical Science
 
-lang: korean, english
+lang: en
 icon: ⚙️
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
-lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://chahyunjoon.github.io # the base hostname & protocol for your site
-baseurl: /al-folio # the subpath of your site, e.g. /blog/. Leave blank for root
+baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
@@ -98,8 +97,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: Notes # blog_name will be displayed in your blog page
+blog_description: Research notes on AI for Science, digital twins, and intelligent physical systems
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -314,7 +313,7 @@ scholar:
 enable_publication_badges:
   altmetric: true # Altmetric badge (Customization options: https://badge-docs.altmetric.com/index.html)
   dimensions: true # Dimensions badge (Customization options: https://badge.dimensions.ai/)
-  google_scholar: true # Google Scholar badge (https://scholar.google.com/intl/en/scholar/citations.html)
+  google_scholar: false # Google Scholar badge (https://scholar.google.com/intl/en/scholar/citations.html)
   inspirehep: true # Inspire HEP badge (https://help.inspirehep.net/knowledge-base/citation-metrics/)
 
 # Filter out certain bibtex entry keywords used internally from the bib output
