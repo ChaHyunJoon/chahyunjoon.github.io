@@ -66,6 +66,21 @@ In the long term, I hope to contribute to the development of intelligent enginee
 <div class="row align-items-start mb-3">
   <div class="col-sm-2 col-3 mb-2 mb-sm-0">
     <img
+      src="{{ '/assets/img/stanford_university_logo.jpg' | relative_url }}"
+      alt="Stanford University logo"
+      class="img-fluid"
+      style="max-width: 80px"
+    />
+  </div>
+  <div class="col-sm-10 col-9">
+    <strong>Stanford HAI Center</strong><br />
+    Incoming Visiting Student Researcher, May 2026 - Nov. 2026
+  </div>
+</div>
+
+<div class="row align-items-start mb-3">
+  <div class="col-sm-2 col-3 mb-2 mb-sm-0">
+    <img
       src="{{ '/assets/img/SNU_logo.jpg' | relative_url }}"
       alt="Seoul National University logo"
       class="img-fluid"
@@ -93,20 +108,5 @@ In the long term, I hope to contribute to the development of intelligent enginee
     Undergraduate Research Assistant, Nov. 2023 - May 2024<br />
     Worked with Prof. Min-Kyu Oh on maximizing antibiotic production in <em>Streptomyces</em>
     through genetic engineering approaches such as CRISPR-Cas9.
-  </div>
-</div>
-
-<div class="row align-items-start mb-3">
-  <div class="col-sm-2 col-3 mb-2 mb-sm-0">
-    <img
-      src="{{ '/assets/img/stanford_university_logo.jpg' | relative_url }}"
-      alt="Stanford University logo"
-      class="img-fluid"
-      style="max-width: 80px"
-    />
-  </div>
-  <div class="col-sm-10 col-9">
-    <strong>Stanford HAI Center</strong><br />
-    Incoming Visiting Student Researcher, May 2026 - Nov. 2026
   </div>
 </div>
