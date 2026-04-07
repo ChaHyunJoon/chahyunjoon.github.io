@@ -24,9 +24,7 @@
       "position": "M.S. Student Researcher",
       "location": "Seoul, South Korea",
       "summary": "Developing reinforcement learning-based approaches for energy management and control in fuel cell hybrid electric vehicles.",
-      "highlights": [
-        "Interested in intelligent systems for physical and chemical engineering domains."
-      ]
+      "highlights": ["Interested in intelligent systems for physical and chemical engineering domains."]
     }
   ],
   "education": [
@@ -35,9 +33,7 @@
       "location": "Seoul, South Korea",
       "area": "Mechanical Engineering",
       "studyType": "M.S.",
-      "highlights": [
-        "Research interests include AI for Science, reinforcement learning, digital twins, and physics-aware machine learning."
-      ]
+      "highlights": ["Research interests include AI for Science, reinforcement learning, digital twins, and physics-aware machine learning."]
     },
     {
       "institution": "Korea University",
@@ -58,12 +54,7 @@
     {
       "name": "Research Interests",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "AI for Science",
-        "Reinforcement Learning",
-        "Digital Twins",
-        "Physics-aware Machine Learning"
-      ]
+      "keywords": ["AI for Science", "Reinforcement Learning", "Digital Twins", "Physics-aware Machine Learning"]
     }
   ]
 }
