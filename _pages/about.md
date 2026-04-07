@@ -72,7 +72,7 @@ In the long term, I hope to contribute to the development of intelligent enginee
   </div>
   <div class="col-sm-10 col-9">
     <strong>Stanford HAI Center</strong><br />
-    PI: James Landay
+    PI: James Landay<br />
     Incoming Visiting Student Researcher, May 2026 - Nov. 2026
   </div>
 </div>
@@ -88,9 +88,9 @@ In the long term, I hope to contribute to the development of intelligent enginee
   </div>
   <div class="col-sm-10 col-9">
     <strong>Renewable Energy Conversion Laboratory, Seoul National University</strong><br />
-    PI: Suk Won Cha
+    PI: Suk Won Cha<br />
     Graduate Research Assistant, Mar. 2025 - Present<br />
-    Undergraduate Research Assistant, Jun. 2024 - Feb. 2025
+    Undergraduate Research Assistant, Jun. 2024 - Feb. 2025<br />
     Worked on optimizing fuel cell power to minimize fuel consumption in Fuel Cell Electric Vehicle by using <em>Reinforcement Learning</em> and <em>Large Language Model</em>.
   </div>
 </div>
@@ -107,7 +107,7 @@ In the long term, I hope to contribute to the development of intelligent enginee
   <div class="col-sm-10 col-9">
     <strong>Systems Bioengineering Laboratory, Korea University</strong><br />
     Undergraduate Research Assistant, Nov. 2023 - May 2024<br />
-    PI: Min Kyu Oh
+    PI: Min Kyu Oh<br />
     Worked on maximizing antibiotic production in <em>Streptomyces</em>
     through genetic engineering approaches such as CRISPR-Cas9.
   </div>
