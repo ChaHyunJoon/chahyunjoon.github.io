@@ -29,31 +29,31 @@ In the long term, I hope to contribute to the development of intelligent enginee
 
 ## Education
 
-<div class="row align-items-start mb-3">
-  <div class="col-sm-2 col-3 mb-2 mb-sm-0">
+<div class="d-flex flex-column flex-sm-row align-items-start mb-3">
+  <div class="text-center me-sm-4 mb-2 mb-sm-0" style="width: 110px; min-width: 110px">
     <img
       src="{{ '/assets/img/SNU_logo.jpg' | relative_url }}"
       alt="Seoul National University logo"
       class="img-fluid"
-      style="max-width: 80px"
+      style="max-height: 84px; width: auto"
     />
   </div>
-  <div class="col-sm-10 col-9">
+  <div class="flex-grow-1">
     <strong>Seoul National University</strong>, Department of Mechanical Engineering<br />
     M.S. Student, Mar. 2025 - Present
   </div>
 </div>
 
-<div class="row align-items-start mb-3">
-  <div class="col-sm-2 col-3 mb-2 mb-sm-0">
+<div class="d-flex flex-column flex-sm-row align-items-start mb-3">
+  <div class="text-center me-sm-4 mb-2 mb-sm-0" style="width: 110px; min-width: 110px">
     <img
       src="{{ '/assets/img/KU_logo.jpg' | relative_url }}"
       alt="Korea University logo"
       class="img-fluid"
-      style="max-width: 80px"
+      style="max-height: 84px; width: auto"
     />
   </div>
-  <div class="col-sm-10 col-9">
+  <div class="flex-grow-1">
     <strong>Korea University</strong>, Department of Chemical and Biological Engineering<br />
     B.S., Mar. 2019 - Feb. 2025
   </div>
@@ -61,32 +61,32 @@ In the long term, I hope to contribute to the development of intelligent enginee
 
 ## Research Experience
 
-<div class="row align-items-start mb-3">
-  <div class="col-sm-2 col-3 mb-2 mb-sm-0">
+<div class="d-flex flex-column flex-sm-row align-items-start mb-3">
+  <div class="text-center me-sm-4 mb-2 mb-sm-0" style="width: 110px; min-width: 110px">
     <img
       src="{{ '/assets/img/stanford_university_logo.jpg' | relative_url }}"
       alt="Stanford University logo"
       class="img-fluid"
-      style="max-width: 80px"
+      style="max-height: 84px; width: auto"
     />
   </div>
-  <div class="col-sm-10 col-9">
+  <div class="flex-grow-1">
     <strong>Stanford HAI Center</strong><br />
     PI: James Landay<br />
     Incoming Visiting Student Researcher, May 2026 - Nov. 2026
   </div>
 </div>
 
-<div class="row align-items-start mb-3">
-  <div class="col-sm-2 col-3 mb-2 mb-sm-0">
+<div class="d-flex flex-column flex-sm-row align-items-start mb-3">
+  <div class="text-center me-sm-4 mb-2 mb-sm-0" style="width: 110px; min-width: 110px">
     <img
       src="{{ '/assets/img/SNU_logo.jpg' | relative_url }}"
       alt="Seoul National University logo"
       class="img-fluid"
-      style="max-width: 80px"
+      style="max-height: 84px; width: auto"
     />
   </div>
-  <div class="col-sm-10 col-9">
+  <div class="flex-grow-1">
     <strong>Renewable Energy Conversion Laboratory, Seoul National University</strong><br />
     PI: Suk Won Cha<br />
     Graduate Research Assistant, Mar. 2025 - Present<br />
@@ -95,16 +95,16 @@ In the long term, I hope to contribute to the development of intelligent enginee
   </div>
 </div>
 
-<div class="row align-items-start mb-3">
-  <div class="col-sm-2 col-3 mb-2 mb-sm-0">
+<div class="d-flex flex-column flex-sm-row align-items-start mb-3">
+  <div class="text-center me-sm-4 mb-2 mb-sm-0" style="width: 110px; min-width: 110px">
     <img
       src="{{ '/assets/img/KU_logo.jpg' | relative_url }}"
       alt="Korea University logo"
       class="img-fluid"
-      style="max-width: 80px"
+      style="max-height: 84px; width: auto"
     />
   </div>
-  <div class="col-sm-10 col-9">
+  <div class="flex-grow-1">
     <strong>Systems Bioengineering Laboratory, Korea University</strong><br />
     Undergraduate Research Assistant, Nov. 2023 - May 2024<br />
     PI: Min Kyu Oh<br />
