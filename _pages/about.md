@@ -32,7 +32,7 @@ In the long term, I hope to contribute to the development of intelligent enginee
 <div class="d-flex flex-column flex-sm-row align-items-start mb-3">
   <div class="text-center me-sm-4 mb-2 mb-sm-0" style="width: 110px; min-width: 110px">
     <img
-      src="{{ '/assets/img/SNU_logo.png' | relative_url }}"
+      src="{{ '/assets/img/SNU_logo_mark.png' | relative_url }}"
       alt="Seoul National University logo"
       class="img-fluid"
       style="max-height: 84px; width: auto"
@@ -47,7 +47,7 @@ In the long term, I hope to contribute to the development of intelligent enginee
 <div class="d-flex flex-column flex-sm-row align-items-start mb-3">
   <div class="text-center me-sm-4 mb-2 mb-sm-0" style="width: 110px; min-width: 110px">
     <img
-      src="{{ '/assets/img/KU_logo.png' | relative_url }}"
+      src="{{ '/assets/img/KU_logo_mark.png' | relative_url }}"
       alt="Korea University logo"
       class="img-fluid"
       style="max-height: 84px; width: auto"
@@ -64,7 +64,7 @@ In the long term, I hope to contribute to the development of intelligent enginee
 <div class="d-flex flex-column flex-sm-row align-items-start mb-3">
   <div class="text-center me-sm-4 mb-2 mb-sm-0" style="width: 110px; min-width: 110px">
     <img
-      src="{{ '/assets/img/stanford_logo.png' | relative_url }}"
+      src="{{ '/assets/img/stanford_logo_mark.png' | relative_url }}"
       alt="Stanford University logo"
       class="img-fluid"
       style="max-height: 84px; width: auto"
@@ -80,7 +80,7 @@ In the long term, I hope to contribute to the development of intelligent enginee
 <div class="d-flex flex-column flex-sm-row align-items-start mb-3">
   <div class="text-center me-sm-4 mb-2 mb-sm-0" style="width: 110px; min-width: 110px">
     <img
-      src="{{ '/assets/img/SNU_logo.png' | relative_url }}"
+      src="{{ '/assets/img/SNU_logo_mark.png' | relative_url }}"
       alt="Seoul National University logo"
       class="img-fluid"
       style="max-height: 84px; width: auto"
@@ -98,7 +98,7 @@ In the long term, I hope to contribute to the development of intelligent enginee
 <div class="d-flex flex-column flex-sm-row align-items-start mb-3">
   <div class="text-center me-sm-4 mb-2 mb-sm-0" style="width: 110px; min-width: 110px">
     <img
-      src="{{ '/assets/img/KU_logo.png' | relative_url }}"
+      src="{{ '/assets/img/KU_logo_mark.png' | relative_url }}"
       alt="Korea University logo"
       class="img-fluid"
       style="max-height: 84px; width: auto"
