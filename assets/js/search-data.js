@@ -441,7 +441,7 @@ ninja.data = [{
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/assets/pdf/CV_Hyun%20Joon%20Cha_260407.pdf", "_blank");
+          window.open("/assets/pdf/Curriculum%20Vitae%20Hyun%20Joon%20Cha%20260409.pdf", "_blank");
         },
       },{
         id: 'social-email',
@@ -451,25 +451,11 @@ ninja.data = [{
           window.open("mailto:%63%68%61%68%6A%30%35%30%30@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
-        },
-      },{
         id: 'social-rss',
         title: 'RSS Feed',
         section: 'Socials',
         handler: () => {
           window.open("/feed.xml", "_blank");
-        },
-      },{
-        id: 'social-scholar',
-        title: 'Google Scholar',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
         },
       },{
         id: 'social-linkedin',
