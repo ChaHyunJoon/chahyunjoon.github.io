@@ -441,7 +441,7 @@ ninja.data = [{
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/assets/pdf/Curriculum%20Vitae%20Hyun%20Joon%20Cha%20260409.pdf", "_blank");
+          window.open("/assets/pdf/Curriculum_Vitae_Hyun_Joon_Cha_260409.pdf", "_blank");
         },
       },{
         id: 'social-email',
