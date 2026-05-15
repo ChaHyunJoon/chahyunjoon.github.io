@@ -41,13 +41,13 @@ cv:
           - Gwangeon Lee
           - Suk Won Cha
         publisher: 2025 Korean Society of Automotive Engineers Autumn Conference
-        releaseDate: 2025-11-16
+        releaseDate: 2025-01-01
 
     Interests:
       - name: Research Interests
         icon: fa-solid fa-tag
         keywords:
-          - Data Infrastructure for AI
+          - AI for Science
           - Reinforcement Learning
-          - AI Safety
-          - AI Alignment
+          - Digital Twins
+          - Physics-aware Machine Learning
