@@ -19,13 +19,11 @@ announcements: true
 latest_posts: false
 ---
 
-Hi! I am Hyun Joon Cha, an M.S. student in Mechanical Engineering at Seoul National University. My research focuses on building intelligent systems that connect artificial intelligence with physical systems, especially in domains where complex dynamics, constraints, and real-world interactions must be modeled and optimized.
+Hi! I am Hyun Joon Cha, an M.S. student in Mechanical Engineering at Seoul National University. Currently I'm at Stanford for Visiting Student Researcher Until November 9. My research focuses on building intelligent systems that connect artificial intelligence with physical systems, especially in domains where complex dynamics, constraints, and real-world interactions must be modeled and optimized.
 
-More broadly, I am interested in AI for Science, physics-aware machine learning, and digital twins for chemical and engineering systems. I am particularly motivated by the idea of building autonomous scientific agents that can bridge theory and experiment through bidirectional feedback, enabling more reliable reasoning, optimization, and mechanistic understanding in complex physical systems.
+More broadly, I am interested in AI for Science, AI Safety, and AI Alignment for engineering domain. I am particularly motivated by autonomous scientific agents that transform fragmented engineering data into systematic workflows. I focus on creating safe AI systems that leverage well-structured data infrastructures to output optimal operational actions in complex environments.
 
-My recent work includes reinforcement learning-based fuel cell power control, battery defect detection from large-scale production-line data. I am also interested in expanding these ideas toward real-world autonomous systems, data infrastructure for AI, and future frameworks for Chemical AI.
-
-In the long term, I hope to contribute to the development of intelligent engineering systems that combine first-principles understanding, learning-based reasoning, and real-world data to support the next generation of chemical processes, energy systems, and autonomous scientific discovery.
+In the long term, I hope to contribute to the development of intelligent engineering systems that combine real-world data, learning-based reasoning, and digital twin to support the next generation of chemical processes, energy systems.
 
 ## Education
 
