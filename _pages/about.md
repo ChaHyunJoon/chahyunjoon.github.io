@@ -20,8 +20,8 @@ latest_posts: false
 ---
 
 Hi! I am Hyun Joon Cha, an M.S. student in Mechanical Engineering at Seoul National University. My research focuses on developing optimal
-control algorithms for hybrid vehicle energy management systems (EMS) and multi-robot task and motion planning using MDPs, reinforcement
-learning (RL), and large language models (LLMs). I’m seeking a PhD position in safe autonomy, especially in handling out-of-distribution cases
+control algorithms for hybrid vehicle energy management systems and multi-robot task and motion planning using Markov decision processes, reinforcement
+learning, and large language models. I’m seeking a PhD position in safe autonomy, especially in handling out-of-distribution cases
 and building self-improving autonomous systems.
 
 In the long term, I hope to contribute to the development of intelligent systems that combine real-world data, learning-based reasoning, and
@@ -97,6 +97,10 @@ formal guarantees to assure safety. I'm especially interested in autonomous syst
     <strong>Renewable Energy Conversion Laboratory, Seoul National University</strong><br />
     PI: Suk Won Cha<br />
     Graduate Research Assistant, Mar. 2025 - Present<br />
+    My research theme is an agentic reward refining workflow for
+    <em>Reinforcement Learning</em> to optimize FCEV power distribution and minimize fuel consumption. I am also developing an agent that uses
+    data-driven reachability analysis to define a safe operating region for the injection molding process and detects anomalies whenever the
+    process leaves that region.<br />
     Undergraduate Research Assistant, Jun. 2024 - Feb. 2025<br />
     Worked on optimizing fuel cell power to minimize fuel consumption in Fuel Cell Electric Vehicle by using <em>Reinforcement Learning</em> and
     <em>Large Language Model</em>.
