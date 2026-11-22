@@ -19,16 +19,13 @@ announcements: true
 latest_posts: false
 ---
 
-Hi! I am Hyun Joon Cha, an M.S. student in Mechanical Engineering at Seoul National University. Currently I'm at Stanford for Visiting
-Student Researcher Until November 9. My research focuses on building intelligent systems that connect artificial intelligence with physical
-systems, especially in domains where complex dynamics, constraints, and real-world interactions must be modeled and optimized.
+Hi! I am Hyun Joon Cha, an M.S. student in Mechanical Engineering at Seoul National University. My research focuses on developing optimal
+control algorithms for hybrid vehicle energy management systems (EMS) and multi-robot task and motion planning using MDPs, reinforcement
+learning (RL), and large language models (LLMs). I’m seeking a PhD position in safe autonomy, especially in handling out-of-distribution cases
+and building self-improving autonomous systems.
 
-More broadly, I am interested in AI for Science, AI Safety, and AI Alignment for engineering domain. I am particularly motivated by autonomous
-scientific agents that transform fragmented engineering data into systematic workflows. I focus on creating safe AI systems that leverage
-well-structured data infrastructures to output optimal operational actions in complex environments.
-
-In the long term, I hope to contribute to the development of intelligent engineering systems that combine real-world data, learning-based reasoning,
-and digital twin to support the next generation of chemical processes, energy systems.
+In the long term, I hope to contribute to the development of intelligent systems that combine real-world data, learning-based reasoning, and
+formal guarantees to assure safety. I'm especially interested in autonomous systems applied to manufacturing.
 
 ## Education
 
@@ -74,9 +71,16 @@ and digital twin to support the next generation of chemical processes, energy sy
     />
   </div>
   <div class="flex-grow-1">
-    <strong>Stanford HAI Center</strong><br />
-    PI: James Landay<br />
-    Incoming Visiting Student Researcher, May 2026 - Nov. 2026
+    <strong>Stanford University</strong><br />
+    PI: James Landay and Mykel J. Kochenderfer<br />
+    Visiting Student Researcher, May 2026 - Oct. 2026
+    <ul class="mb-0">
+      <li>
+        Under Prof. James Landay: Designed an autonomous multi-agent reward design framework to minimize fuel consumption and power-source
+        degradation in a quasi-static FCEV model
+      </li>
+      <li>Under Prof. Mykel J. Kochenderfer: Designed self-improving failure recovery for multi-robot spacecraft assembly planning</li>
+    </ul>
   </div>
 </div>
 
