@@ -96,14 +96,16 @@ formal guarantees to assure safety. I'm especially interested in autonomous syst
   <div class="flex-grow-1">
     <strong>Renewable Energy Conversion Laboratory, Seoul National University</strong><br />
     PI: Suk Won Cha<br />
-    Graduate Research Assistant, Mar. 2025 - Present<br />
-    My research theme is an agentic reward refining workflow for
-    <em>Reinforcement Learning</em> to optimize FCEV power distribution and minimize fuel consumption. I am also developing an agent that uses
-    data-driven reachability analysis to define a safe operating region for the injection molding process and detects anomalies whenever the
-    process leaves that region.<br />
-    Undergraduate Research Assistant, Jun. 2024 - Feb. 2025<br />
-    Worked on optimizing fuel cell power to minimize fuel consumption in Fuel Cell Electric Vehicle by using <em>Reinforcement Learning</em> and
-    <em>Large Language Model</em>.
+    Graduate Research Assistant, Mar. 2025 - Present
+    <ul class="mb-1">
+      <li>Developing an agentic reward refining workflow for <em>Reinforcement Learning</em> to optimize FCEV power distribution and minimize fuel consumption</li>
+      <li>Developing an agent that uses data-driven reachability analysis to define a safe operating region for the injection molding process</li>
+      <li>Detecting anomalies whenever the injection molding process leaves that safe operating region</li>
+    </ul>
+    Undergraduate Research Assistant, Jun. 2024 - Feb. 2025
+    <ul class="mb-0">
+      <li>Optimized fuel cell power to minimize fuel consumption in Fuel Cell Electric Vehicles using <em>Reinforcement Learning</em> and <em>Large Language Models</em></li>
+    </ul>
   </div>
 </div>
 
@@ -118,9 +120,10 @@ formal guarantees to assure safety. I'm especially interested in autonomous syst
   </div>
   <div class="flex-grow-1">
     <strong>Systems Bioengineering Laboratory, Korea University</strong><br />
-    Undergraduate Research Assistant, Nov. 2023 - May 2024<br />
     PI: Min Kyu Oh<br />
-    Worked on maximizing antibiotic production in <em>Streptomyces</em>
-    through genetic engineering approaches such as CRISPR-Cas9.
+    Undergraduate Research Assistant, Nov. 2023 - May 2024
+    <ul class="mb-0">
+      <li>Worked on maximizing antibiotic production in <em>Streptomyces</em> through genetic engineering approaches such as CRISPR-Cas9</li>
+    </ul>
   </div>
 </div>
