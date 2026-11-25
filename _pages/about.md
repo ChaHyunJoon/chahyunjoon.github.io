@@ -99,8 +99,7 @@ formal guarantees to assure safety. I'm especially interested in autonomous syst
     Graduate Research Assistant, Mar. 2025 - Present
     <ul class="mb-1">
       <li>Developing an agentic reward refining workflow for <em>Reinforcement Learning</em> to optimize power distribution and minimize fuel consumption in Fuel Cell Electric Vehicles</li>
-      <li>Developing an agent that uses data-driven reachability analysis to define a safe operating region for the injection molding process</li>
-      <li>Detecting anomalies whenever the injection molding process leaves that safe operating region</li>
+      <li>Developing an agent that uses data-driven reachability analysis to define a safe operating region for the injection molding process and detects anomalies whenever the process leaves that region</li>
     </ul>
     Undergraduate Research Assistant, Jun. 2024 - Feb. 2025
     <ul class="mb-0">
