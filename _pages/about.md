@@ -77,7 +77,7 @@ formal guarantees to assure safety. I'm especially interested in autonomous syst
     <ul class="mb-0">
       <li>
         Under Prof. James Landay: Designed an autonomous multi-agent reward design framework to minimize fuel consumption and power-source
-        degradation in a quasi-static FCEV model
+        degradation in a quasi-static Fuel Cell Electric Vehicle model
       </li>
       <li>Under Prof. Mykel J. Kochenderfer: Designed self-improving failure recovery for multi-robot spacecraft assembly planning</li>
     </ul>
@@ -98,7 +98,7 @@ formal guarantees to assure safety. I'm especially interested in autonomous syst
     PI: Suk Won Cha<br />
     Graduate Research Assistant, Mar. 2025 - Present
     <ul class="mb-1">
-      <li>Developing an agentic reward refining workflow for <em>Reinforcement Learning</em> to optimize FCEV power distribution and minimize fuel consumption</li>
+      <li>Developing an agentic reward refining workflow for <em>Reinforcement Learning</em> to optimize power distribution and minimize fuel consumption in Fuel Cell Electric Vehicles</li>
       <li>Developing an agent that uses data-driven reachability analysis to define a safe operating region for the injection molding process</li>
       <li>Detecting anomalies whenever the injection molding process leaves that safe operating region</li>
     </ul>
@@ -123,7 +123,7 @@ formal guarantees to assure safety. I'm especially interested in autonomous syst
     PI: Min Kyu Oh<br />
     Undergraduate Research Assistant, Nov. 2023 - May 2024
     <ul class="mb-0">
-      <li>Worked on maximizing antibiotic production in <em>Streptomyces</em> through genetic engineering approaches such as CRISPR-Cas9</li>
+      <li>Worked on maximizing antibiotic production in <em>Streptomyces</em> through genetic engineering approaches such as <em>CRISPR-Cas9</em></li>
     </ul>
   </div>
 </div>
